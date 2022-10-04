@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md. shadikul islam shafi
 - 👀 I’m interested in codding 
-- 🌱 I’m currently learning html,css,python, c#,java,javascript,react
+- 🌱 I’m currently learning html,css,python, c#,java,javascript,react,Dart, Flutter
 - 💞️ I’m looking to collaborate on software industry 
 - 📫 How to reach me ...Email- shadikulshafi@yahoo.com
 
