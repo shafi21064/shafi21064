@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md. shadikul islam shafi
 - 👀 I’m interested in codding 
-- 🌱 I’m currently learning c#, java, Dart, Flutter
+- 🌱 I’m currently learning java, Dart, Flutter
 - 💞️ I’m looking to collaborate on software industry 
 - 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
 
