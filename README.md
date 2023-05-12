@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @md. shadikul islam shafi
 - 👀 I’m interested in codding 
-- 🌱 I’m currently learning java, Dart, Flutter
+- 🌱 Currently I’m learning App development with java, Dart and Flutter
 - 💞️ I’m looking to collaborate on software industry 
 - 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
+- 🌏 you can also contact me throw facebook - https://www.facebook.com/shadikul.shafi
 
 <!---
 shafi21064/shafi21064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
