@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @md. shadikul islam shafi
-- 👀 I’m interested in codding 
-- 🌱 Currently I’m learning App development with java, Dart and Flutter
-- 💞️ I’m looking to collaborate on software industry 
-- 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
-- 🌏 you can also contact me throw facebook - https://www.facebook.com/shadikul.shafi
+ <h1 align="center">Hi 👋, I'm Md Shadikul Islam Shafi</h1>
 
-<!---
-shafi21064/shafi21064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👀 I’m interested in codding
+- 🌱 Currently I’m learning App development with Java, Dart, and Flutter
+- 💞️ I’m looking to collaborate in the software industry
+- 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
+- 🌏 you can also contact me through Facebook - https://www.facebook.com/shadikul.shafi
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/shafi21064">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/shadikulshafi/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/shadikul.shafi">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/shadikul_shafi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafi21064&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi21064&theme=dark)
+
+
+<br>
+⭐️ From [shafi21064](https://github.com/shafi21064)
