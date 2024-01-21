@@ -12,6 +12,9 @@
   <a href="https://github.com/shafi21064">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+ <a href="https://www.linkedin.com/in/shadikul-shafi/">
+    <img src="https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkdin&logoColor=black%22%20alt="Instagram Badge"/>
+  </a>
    <a href="https://www.instagram.com/shadikulshafi/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
