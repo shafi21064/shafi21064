@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in codding
-- 🌱 Currently I’m learning App development with Java, Dart, and Flutter
+- 🌱 Currently I’m learning App development with Flutter
 - 💞️ I’m looking to collaborate in the software industry
 - 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
 - 🌏 you can also contact me through Facebook - https://www.facebook.com/shadikul.shafi
