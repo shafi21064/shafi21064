@@ -1,9 +1,10 @@
  <h1 align="center">Hi 👋, I'm Md Shadikul Islam Shafi</h1>
 
 
-- 👀 I’m interested in codding
-- 🌱 Currently I’m learning App development with Flutter
-- 💞️ I’m looking to collaborate in the software industry
+- 👀 Interested in learning
+- 🌱 Currently, I’m learning Backend development with GO
+- 🧑‍💻 Working as an App developer at The Tork
+- 💞️ Looking to collaborate in the software industry
 - 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
 - 🌏 you can also contact me through Facebook - https://www.facebook.com/shadikul.shafi
   
@@ -27,7 +28,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafi21064&show_icons=true&theme=dark)
 
