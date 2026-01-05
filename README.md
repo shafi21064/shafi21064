@@ -5,7 +5,7 @@
 - 🌱 Currently, I’m learning Backend development with GO
 - 🧑‍💻 Working as an App developer at The Tork
 - 💞️ Looking to collaborate in the software industry
-- 📫 How to reach me ...Email- mdshadikulislmashafi@gmail.com
+- 📫 How to reach me ...Email- mdshadikulislamshafi@gmail.com
 - 🌏 you can also contact me through Facebook - https://www.facebook.com/shadikul.shafi
   
 ### Connect with me:
